@@ -1,0 +1,42 @@
+body {
+	background-color: #Ffffff;
+	color: #212F36;
+	font-family: "roboto", sans-serif; 
+	}
+	h1 {
+		text-align: center;
+		text-decoration: underline;
+		color: #455DC7;
+		font-family: "bpscript", sans-serif; 
+		}
+	h4 { 
+		text-align: center;
+		font-style: bold;
+		font-family: sans-serif;
+ 		}
+ 	h3 {
+ 		font-style: bold;
+ 		font-family: sans-serif;
+		}
+	h5 {
+		font-style: bold;
+		font-family: sans-serif;
+		color: #898887
+	}
+	p { 
+		font-size: 16px;
+		text-align: left;
+		}
+	a {
+		color: #798DE3
+	}
+	hr {
+		border-color: #212F36
+	}
+	img {
+		float: right
+		}
+	/*img {
+		text-align: middle;
+		}
+	

@@ -1,0 +1,34 @@
+body {
+	background-color: #343434;
+	color: #ffffff;
+	font-family: serif; 
+	}
+	h1 {
+		text-align: center;
+		font-style: italic;
+		}
+	h4 { 
+		text-align: center;
+		font-style: bold;
+		font-family: sans-serif;
+ 		}
+ 	h3 {
+ 		font-style: bold;
+ 		font-family: sans-serif;
+		}
+	p { 
+		font-size: 16px 
+		}
+
+	img {
+		float: right
+		}
+	a {
+		color: #55BD84
+	}
+
+/*hr {size: 3px;}*/
+/* 
+ver como poner la foto ahi o preg
+como se afinan las lineas
+*/

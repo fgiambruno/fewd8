@@ -1,0 +1,36 @@
+body {
+	background-color: #343434;
+	color: #ffffff;
+	font-family: serif; 
+	}
+	h1 {
+		text-align: center;
+		font-style: italic;
+		}
+	h4 { 
+		text-align: center;
+		font-style: bold;
+		font-family: sans-serif;
+ 		}
+ 	h3 {
+ 		font-style: bold;
+ 		font-family: sans-serif;
+		}
+	h5 {
+		font-style: bold;
+		font-family: sans-serif;
+		color: #898887
+	}
+	p { 
+		font-size: 16px 
+		}
+	a {
+		color: #55BD84
+	}
+	
+/*hr {size: 3px;}*/
+/* terminar y hacer mi about me tmb,
+poner el link a un file de html resume(verde)
+ver como poner la foto ahi o preg
+como se afinan las lineas
+poner los links de facebook y demas*/
